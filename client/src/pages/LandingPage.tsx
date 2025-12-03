@@ -45,8 +45,8 @@ export function LandingPage() {
   ];
 
   const stats = [
-    { value: '99.9%', label: 'Detection Accuracy' },
-    { value: '< 50ms', label: 'Response Time' },
+    { value: '98.34%', label: 'Detection Accuracy' },
+    { value: '< 12ms', label: 'Latency Rate' },
     { value: '24/7', label: 'Monitoring' },
     { value: '170+', label: 'Visualizations' }
   ];
@@ -206,7 +206,7 @@ export function LandingPage() {
             <div className="inline-flex p-4 bg-indigo-500/20 rounded-full mb-4 group-hover:bg-indigo-500/30 transition-colors">
               <ShieldCheckIcon className="h-12 w-12 text-indigo-400" />
             </div>
-            <h3 className="text-2xl font-bold text-white mb-2">Amir Shahid</h3>
+            <h3 className="text-2xl font-bold text-white mb-2">Muhammad Amir Shahid</h3>
             <p className="text-indigo-400 font-semibold mb-4">Team Lead</p>
             <p className="text-gray-400 leading-relaxed">
               Leading the development and architecture of the intrusion detection system
@@ -218,7 +218,7 @@ export function LandingPage() {
             <div className="inline-flex p-4 bg-purple-500/20 rounded-full mb-4 group-hover:bg-purple-500/30 transition-colors">
               <LockClosedIcon className="h-12 w-12 text-purple-400" />
             </div>
-            <h3 className="text-2xl font-bold text-white mb-2">Sir Zunurain</h3>
+            <h3 className="text-2xl font-bold text-white mb-2">Zunnurain Hussain</h3>
             <p className="text-purple-400 font-semibold mb-4">Supervisor</p>
             <p className="text-gray-400 leading-relaxed">
               Supervisor at Bahria University, providing guidance and oversight for the project
@@ -231,7 +231,7 @@ export function LandingPage() {
               <BoltIcon className="h-12 w-12 text-blue-400" />
             </div>
             <h3 className="text-2xl font-bold text-white mb-2">Ali Akram</h3>
-            <p className="text-blue-400 font-semibold mb-4">Programmer</p>
+            <p className="text-blue-400 font-semibold mb-4">Member</p>
             <p className="text-gray-400 leading-relaxed">
               Developing core features and implementing machine learning algorithms
             </p>
